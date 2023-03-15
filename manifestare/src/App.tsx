@@ -7,11 +7,15 @@ import { Routes, Route} from "react-router-dom";
 
 function App(this: any) {
   return (
+    <div>
+    <p className='text'>Por que?</p>
     <div className='App'>
     <Routes>
       <Route path="/" element={<Quote />} />
     </Routes>
     </div>
+    </div>
+    
   );
 }
 

@@ -1,8 +1,12 @@
 .App {
   text-align: center;
-  margin-top: 25%;
-  min-height: 400px;
-  max-height: 800px;
-
+  margin-top: 20%;
+  margin-left: 5%;
+  margin-right: 5%;
+  min-height: 200px;
+  max-height: 100%; 
 }
-
+.text {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
