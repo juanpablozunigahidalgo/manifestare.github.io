@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manifestare.github.io/static/css/main.c4641d10.css",
+    "main.js": "/manifestare.github.io/static/js/main.6c48a652.js",
+    "static/js/787.9cca4537.chunk.js": "/manifestare.github.io/static/js/787.9cca4537.chunk.js",
+    "index.html": "/manifestare.github.io/index.html",
+    "main.c4641d10.css.map": "/manifestare.github.io/static/css/main.c4641d10.css.map",
+    "main.6c48a652.js.map": "/manifestare.github.io/static/js/main.6c48a652.js.map",
+    "787.9cca4537.chunk.js.map": "/manifestare.github.io/static/js/787.9cca4537.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4641d10.css",
+    "static/js/main.6c48a652.js"
+  ]
+}
