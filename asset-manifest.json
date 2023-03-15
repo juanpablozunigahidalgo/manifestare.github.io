@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4641d10.css",
-    "main.js": "/static/js/main.cfaac80b.js",
-    "static/js/787.9cca4537.chunk.js": "/static/js/787.9cca4537.chunk.js",
-    "index.html": "/index.html",
-    "main.c4641d10.css.map": "/static/css/main.c4641d10.css.map",
-    "main.cfaac80b.js.map": "/static/js/main.cfaac80b.js.map",
-    "787.9cca4537.chunk.js.map": "/static/js/787.9cca4537.chunk.js.map"
+    "main.css": "/manifestare.github.io/static/css/main.c4641d10.css",
+    "main.js": "/manifestare.github.io/static/js/main.7e9c5a49.js",
+    "static/js/787.9cca4537.chunk.js": "/manifestare.github.io/static/js/787.9cca4537.chunk.js",
+    "index.html": "/manifestare.github.io/index.html",
+    "main.c4641d10.css.map": "/manifestare.github.io/static/css/main.c4641d10.css.map",
+    "main.7e9c5a49.js.map": "/manifestare.github.io/static/js/main.7e9c5a49.js.map",
+    "787.9cca4537.chunk.js.map": "/manifestare.github.io/static/js/787.9cca4537.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4641d10.css",
-    "static/js/main.cfaac80b.js"
+    "static/js/main.7e9c5a49.js"
   ]
 }
