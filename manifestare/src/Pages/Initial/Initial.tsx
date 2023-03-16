@@ -9,7 +9,7 @@ const Initial = () => {
 
     return ( 
     <div>
-    <p className='texta'> <Link className='link' to="/porque">Por que?</Link></p>
+    <p className='texta'> <Link className='linkdue' to="/porque">Por que?</Link></p>
     <div className='initial'>
     <Quote></Quote>
     </div>
