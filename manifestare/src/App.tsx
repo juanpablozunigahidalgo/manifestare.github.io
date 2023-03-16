@@ -1,21 +1,15 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Typed from 'react-typed';
-import Quote from './Engine/engine';
-import { Routes, Route} from "react-router-dom";
 
-function App(this: any) {
+import './App.css';
+import Initial from './Pages/Initial/Initial';
+import { Routes, Route} from "react-router-dom";
+import Porque from './Pages/Porque/Porque';
+
+function App() {
   return (
-    <div>
-    <p className='text'>Por que?</p>
-    <div className='App'>
     <Routes>
-      <Route path="/" element={<Quote />} />
+      <Route path="/" element={<Initial/>} />
+      <Route path="/porque" element={<Porque/>} />
     </Routes>
-    </div>
-    </div>
-    
   );
 }
 
