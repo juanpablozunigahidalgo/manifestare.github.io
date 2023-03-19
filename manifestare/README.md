@@ -17,8 +17,7 @@ Hope you like it. Otherwise. Respectfully dimiss it.
 
 
 Juan Pablo. 
-A human alive in planet earth. I also breath.
-Lets pretend we free in life. Galton condition statistical principle.   
-
+A human alive in planet earth.
+www.manifestare.art
 
 
