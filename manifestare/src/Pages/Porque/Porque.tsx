@@ -10,7 +10,10 @@ const Porque = () => {
       <p>Back-End. Base de datos y accesso establecido en jsonbin.io. Limite permitido. </p>
       <p>El codigo se encuentra disponible <a className='link' href='https://github.com/juanpablozunigahidalgo/manifestare.github.io/tree/master/manifestare'>aqui</a>.</p>
       <p>Expreso ideas en distintos ambitos de la vida.</p>
+      <p>El termino Manifestare proviene del latin. Una palabra compuesta por mani (manos) y festare (fiesta).</p>
+      <p>Resume el declarar. El dar a conocer.</p>
     </div>
+    
     );
   };
   export default Porque;

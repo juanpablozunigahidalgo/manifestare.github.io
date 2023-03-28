@@ -2,7 +2,6 @@ import Quote from '../../Engine/engine';
 import "./Initial.css";
 import { Link } from 'react-router-dom';
 
-
 const Initial = () => {
 
 
