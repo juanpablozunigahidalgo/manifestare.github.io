@@ -43,8 +43,9 @@ const Quote: React.FC = () => {
       {currentQuoteIndex >= 0 && (
         <Typed
           strings={[`${quotes[currentQuoteIndex].Cita} — ${quotes[currentQuoteIndex].author}`]}
-          typeSpeed={80}
+          typeSpeed={120}
           backSpeed={40}
+          backDelay={2000}
           onComplete={getNextQuote}
           showCursor={false}
           fadeOut={true}
