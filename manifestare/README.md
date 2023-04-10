@@ -12,7 +12,7 @@ The website call such quotes with axios. By using controlled access. Json object
 
 After the quotes are called. The quotes are displayed with Typed.js. 
 
-Optionally. The website plays songs. Redux Store - controls play state. The songs are "la paloma" or "romanza".  
+Optionally. The website plays songs. Redux Store - controls play state. The songs are "la paloma" or "romanza". La paloma is a beautiful song. 
 
 Why I did this?. To explore cloud capabilities. And keep learning. 
 
