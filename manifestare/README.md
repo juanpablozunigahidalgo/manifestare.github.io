@@ -1,20 +1,26 @@
 #Guide
 
-This is an experimental website to display reflections of life. 
+This is an experimental website. To display reflections of life. It is written in react-typescript framework. 
+
+It runs as image on github pages. The adress is www.manifestare.art . 
 
 It is a hyper simple website front end wise. But over complicated back end wise. 
 
-Such code calls a data base that displays quotes or reflections. 
+The logic. Quotes are stored in a data-base at jsonbin.io. Access controlled. Data limit. 
 
-Such reflections are stored in JsonObject free data tier in jsonbin.io. Access controlled.
+The website call such quotes with axios. By using controlled access. Json object read quotes and author. 
 
-The messages are read. Also. The code plays optionally songs. With Redux Store. It controls play state. 
+After the quotes are called. The quotes are displayed with Typed.js. 
 
-Why I did this?. To explore cloud capabilities. And keep learning. And I think is just cool. 
+Optionally. The website plays songs. Redux Store - controls play state. The songs are "la paloma" or "romanza".  
+
+Why I did this?. To explore cloud capabilities. And keep learning. 
+
+I think it is pretty cool to be honest. I love learning and applying technologies. Dude. Take this code and copy as much as you want.  
 
 Hope you like it. Otherwise. Respectfully dimiss it. 
 
 Juan Pablo. 
-www.manifestare.art
+
 
 
